@@ -8,7 +8,7 @@ Implementation of A-Star Path Finding Algorithm
 3. right click = finishing square
 
 ## result
-![](images/example1.png)
+![](images/example1.png)  
 ![](images/example2.png)
 
 Green - Start point  
